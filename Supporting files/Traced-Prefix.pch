@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Traced' target in the 'Traced' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+#endif
